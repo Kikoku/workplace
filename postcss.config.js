@@ -4,8 +4,8 @@ module.exports = {
     // Applies vendor prefixes to css files
     require('autoprefixer'),
     // Minifies css
-    // require('cssnano')({
-    //   preset: 'advanced'
-    // })
+    require('cssnano')({
+      preset: 'advanced'
+    })
   ]
 }
