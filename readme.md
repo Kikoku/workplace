@@ -8,7 +8,7 @@
 6. Select `Open folder...` from the selection under start in on the welcome page
 7. Open the extracted contents
 8. Press `CTRL` + `~` to open a Terminal Window in VSC
-9. run the command `npm i`
+9. run the command `npm i` (*You may need to install Node.js*)
 10. Start coding SCSS
 
 ### Learn SCSS
