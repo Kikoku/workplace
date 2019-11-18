@@ -1,0 +1,12 @@
+// This is your main SCSS file that will be compiled to CSS
+@import './variables';
+// Utilize variables declared in `_variables.scss`
+// .sample-class { background: $backgroundColor; }
+
+@import './mixins';
+// Utilize mixings declared in `_mixins.scss`
+// .sample-button {
+//   background: blue;
+//   color: white;
+//   @include button-styles(8px);
+// }
